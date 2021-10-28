@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\visual studio projects\lab_5.5_C++\lab_5.5_C++\Source.cpp(53,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\visual studio projects\lab_5.5_C++\lab_5.5_C++\Source.cpp(54,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\visual studio projects\lab_5.5_C++\lab_5.5_C++\Source.cpp(64,53): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  lab_5.5_C++.vcxproj -> D:\visual studio projects\lab_5.5_C++\Debug\lab_5.5_C++.exe

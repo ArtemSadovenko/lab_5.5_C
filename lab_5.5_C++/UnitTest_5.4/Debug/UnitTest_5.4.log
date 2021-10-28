@@ -1,0 +1,5 @@
+﻿  UnitTest_5.4.cpp
+D:\visual studio projects\lab_5.5_C++\lab_5.5_C++\Source.cpp(51,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\visual studio projects\lab_5.5_C++\lab_5.5_C++\Source.cpp(52,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\visual studio projects\lab_5.5_C++\lab_5.5_C++\Source.cpp(62,53): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  UnitTest_5.4.vcxproj -> D:\visual studio projects\lab_5.5_C++\Debug\UnitTest_5.4.dll
